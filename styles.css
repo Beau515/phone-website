@@ -1,0 +1,172 @@
+
+#title{
+background-color: #ffa41b;
+}
+
+.container-fluid{
+  padding:3% 5%;
+}
+
+h1{
+  font-family: 'Montserrat', sans-serif;
+  font-size: 3rem;
+  line-height: 1.5;
+  color: Black;
+}
+
+h2{
+  font-family: 'ubuntu';
+  font-size: 2rem;
+  color:Black;
+  line-height:1.3;
+  font-style: italic;
+  font-weight: bold;
+}
+
+h3{
+  font-family: 'Montserrat-bold', sans-serif;
+  font-size: 1.5rem;
+}
+
+p{
+  color: Grey;
+}
+
+/* navbar */
+
+.navbar{
+  padding-top: 1rem;
+}
+
+
+.navbar-brand{
+  font-family: 'Ubuntu';
+  font-size: 2.3rem;
+  font-weight: bold;
+}
+
+.nav-item{
+  padding:0 16px;
+}
+
+.nav-link{
+  font-family: 'Montserrat';
+  font-size: 1rem;
+  font-weight: 400;
+}
+
+.download-button{
+  margin: 5% 3% 5% 0;
+}
+
+/* for rotationg images */
+.title-image{
+  transform: rotate(45deg);
+}
+
+#features{
+background-color: #f9fcfb;
+padding: 3% 5%;
+}
+
+.we{
+  font-family:'ubuntu';
+  font-size:2rem;
+  margin: 1% 1%;
+}
+
+.par{
+  font-size: 1.5rem;
+  line-height: 2rem;
+}
+
+.features-box{
+  text-align: center;
+  padding: 5%;
+}
+
+.icon{
+  color: #feb377;
+  margin-bottom: 1rem;
+}
+
+.icon:hover{
+  color: #ffa41b;
+}
+
+/* testimonials */
+
+#testimonials{
+  text-align: center;
+  background-color: #ffa41b;
+
+}
+
+.testimonial-img{
+  width:20%;
+  border-radius: 100%;
+  margin:20px;
+}
+
+.carousel-item{
+  padding:5% 15%;
+}
+
+#press{
+background-color: #ffa41b;
+text-align: center;
+padding-bottom: 3%;
+}
+
+.press-img{
+  width:15%;
+  margin:20px 20px 50px;
+}
+
+#pricing{
+  padding:5% 10%;
+  text-align: center;
+}
+
+#cta{
+background-color: #ffa41b;
+padding: 3% 7%;
+text-align: center;
+}
+
+.cta-heading{
+  font-family: 'Montserrat';
+  font-size: 1.5rem;
+  line-height: 1.5rem;
+  margin-top: 3%;
+}
+
+.cta-button{
+  margin: 3% 3% 5% 0;
+}
+
+#footer{
+  text-align:center;
+  padding: 3% 7%;
+}
+
+.who{
+  font-family:'ubuntu';
+  font-size:3rem;
+  margin: 1% 1%;
+}
+
+.para{
+  font-size: 1.5rem;
+  color: white;
+}
+
+.social-icon{
+  margin: 10px 10px;
+  size: 20%;
+  color: #ffa41b;
+}
+
+.social-icon:hover{
+  color: #feb377;
+}
